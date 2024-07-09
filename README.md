@@ -30,7 +30,7 @@ Created 4 Organizational unit in the domain and created a user with my name and 
 
 
 
-Now we'll move on to next step for creating a client machine...
+Now we'll move on to the next step for creating client machine
 
 ## Setting up the Windows Enterprise LTSC (Client) Virtual Environment: 
 

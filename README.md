@@ -6,9 +6,9 @@ In this home lab I walked through how to create an Active Directory Environment 
 - Windows Powershell
 ## Environment used (Both virtualized)
 - Windows Server 2022
-- Windows 10 LTSC 21H2
+- Windows Enterprise LTSC 21H2
 ## Lab Setup Overview
-- ### Setting up the Virtual Environment: 
+- ### Setting up the Windows Server (AD Server) Virtual Environment: 
 The initial step involves setting up the virtual environment using VMware Workstation Pro. This process includes creating a new virtual machine, allocating necessary resources such as memory and storage (In my case I am allocating 2 Cores, 6GB Memory, 100GB Storage to both of these VMs), and installing Windows Server 2022 as the operating system.
 
 ![Screenshot 2024-07-09 174239](https://github.com/Ironfist69/AD-Management-Home-Lab/assets/70436487/5add46bb-1563-4f15-a499-1d517ad09620)
@@ -20,3 +20,5 @@ Once the operating system is installed, the next phase is to configure Windows S
 
 
 ![Screenshot 2024-07-09 180713](https://github.com/Ironfist69/AD-Management-Home-Lab/assets/70436487/84147277-a9a9-47f5-a836-de89765b4395)
+
+- ### Setting up the Windows Enterprise LTSC (Client) Virtual Environment: 

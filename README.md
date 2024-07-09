@@ -25,7 +25,13 @@ Once the operating system is installed, the next phase is to configure Windows S
 
 - ### Managing Active Directory:
 Created 4 Organizational unit in the domain and created a user with my name and added him into IT Group
+
 ![Screenshot 2024-07-09 212811](https://github.com/Ironfist69/AD-Management-Home-Lab/assets/70436487/918bc782-a840-4494-9502-59f11bc2d0cf)
 
 
-- ### Setting up the Windows Enterprise LTSC (Client) Virtual Environment: 
+
+Now we'll move on to next step for creating a client machine...
+
+## Setting up the Windows Enterprise LTSC (Client) Virtual Environment: 
+
+![Screenshot 2024-07-09 213737](https://github.com/Ironfist69/AD-Management-Home-Lab/assets/70436487/9f49c695-aa39-4aff-a7c7-a3cbcefb98f8)

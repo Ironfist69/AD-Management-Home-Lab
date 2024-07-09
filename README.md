@@ -42,3 +42,7 @@ Now we'll move on to the next step for creating client machine
 Successfully established connection betweent the Server and Client using the Server's IP Adrress as DNS server on Client side
 
 ![AD Project (2)](https://github.com/Ironfist69/AD-Management-Home-Lab/assets/70436487/78b52353-0a86-4a25-853b-82949ac3e3bd)
+
+![Screenshot 2024-07-09 220831](https://github.com/Ironfist69/AD-Management-Home-Lab/assets/70436487/02522f88-ffe9-4056-bf9d-40d54c1385fc)
+
+

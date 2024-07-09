@@ -21,6 +21,8 @@ Once the operating system is installed, the next phase is to configure Windows S
 
 ![Screenshot 2024-07-09 180713](https://github.com/Ironfist69/AD-Management-Home-Lab/assets/70436487/84147277-a9a9-47f5-a836-de89765b4395)
 
+Assigning static IP to our AD server
+
 ![AD Project (4)](https://github.com/Ironfist69/AD-Management-Home-Lab/assets/70436487/9903abf7-7190-424e-a72f-3bdc00d3b734)
 
 - ### Managing Active Directory:

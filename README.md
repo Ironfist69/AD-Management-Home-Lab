@@ -13,7 +13,7 @@ The initial step involves setting up the virtual environment using VMware Workst
 
 ![Screenshot 2024-07-09 174239](https://github.com/Ironfist69/AD-Management-Home-Lab/assets/70436487/5add46bb-1563-4f15-a499-1d517ad09620)
 
-- ### Creating Active Directory Environment:
+- ### Deploying Active Directory Environment:
 Once the operating system is installed, the next phase is to configure Windows Server 2022 to function as an Active Directory server. This configuration involves setting up the server roles and features, configuring networking settings, and setting up the Active Directory Domain Services role.
 
 ![Screenshot 2024-07-09 174946](https://github.com/Ironfist69/AD-Management-Home-Lab/assets/70436487/a569ae63-3fa2-41ce-a2a9-3cd6396cdf40)
@@ -22,6 +22,10 @@ Once the operating system is installed, the next phase is to configure Windows S
 ![Screenshot 2024-07-09 180713](https://github.com/Ironfist69/AD-Management-Home-Lab/assets/70436487/84147277-a9a9-47f5-a836-de89765b4395)
 
 ![AD Project (4)](https://github.com/Ironfist69/AD-Management-Home-Lab/assets/70436487/9903abf7-7190-424e-a72f-3bdc00d3b734)
+
+- ### Managing Active Directory:
+Created 4 Organizational unit in the domain and created a user with my name and added him into IT Group
+![Screenshot 2024-07-09 212811](https://github.com/Ironfist69/AD-Management-Home-Lab/assets/70436487/918bc782-a840-4494-9502-59f11bc2d0cf)
 
 
 - ### Setting up the Windows Enterprise LTSC (Client) Virtual Environment: 
